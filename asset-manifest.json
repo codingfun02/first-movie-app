@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/first-movie-app/static/css/main.f0c5e954.css",
+    "main.js": "/first-movie-app/static/js/main.e523a736.js",
+    "index.html": "/first-movie-app/index.html",
+    "main.f0c5e954.css.map": "/first-movie-app/static/css/main.f0c5e954.css.map",
+    "main.e523a736.js.map": "/first-movie-app/static/js/main.e523a736.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0c5e954.css",
+    "static/js/main.e523a736.js"
+  ]
+}
